@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="TODO" tools:ignore="MissingTranslation">lektion2</string>
+    <string name="lektion2" />
+</resources>
